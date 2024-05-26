@@ -35,5 +35,7 @@ The application uses a CSV file named `combined_tech_stocks_data.csv` which shou
 
 6. **Descriptive statistics**: View the descriptive statistics for the selected stocks.
 
+## WEB PAGE
 
+https://itstocks-ulnbdyappcbakvgfvddrzev.streamlit.app/
 
