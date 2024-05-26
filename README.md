@@ -35,6 +35,14 @@ The application uses a CSV file named `combined_tech_stocks_data.csv` which shou
 
 6. **Descriptive statistics**: View the descriptive statistics for the selected stocks.
 
+## Requirements
+
+- Python 3.7 or higher
+- streamlit
+- pandas
+- plotly
+
+
 ## WEB PAGE
 
 https://itstocks-ulnbdyappcbakvgfvddrzev.streamlit.app/
