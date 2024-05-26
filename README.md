@@ -15,7 +15,7 @@ This Streamlit application provides an interactive exploratory data analysis (ED
 
 ## Data
 
-The application uses a CSV file named `combined_tech_stocks_data.csv` which should be placed in the same directory as the `app.py` file. This file should contain the stock data with at least the following columns:
+The application uses a CSV file named `combined_tech_stocks_data.csv` which should be placed in the same directory as the `streamlit_app.py` file. This file should contain the stock data with at least the following columns:
 - `Date`
 - `Symbol`
 - `Close`
